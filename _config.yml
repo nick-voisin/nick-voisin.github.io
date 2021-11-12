@@ -8,7 +8,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jemoji]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Nicolas Voisin'
-description:	       'Quantitative Trader'
+title:		           'Nicolas Voisin - Personal Blog'
+sub_title:           'Quantitative Trader'
 author:              'Nicolas Voisin'
 location:            'Paris'

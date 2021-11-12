@@ -4,4 +4,4 @@ title: Resumé
 permalink: /resume
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/NickVoisin), or [email me](mailto:voisin.nicolas@gmail.com).
+If one can be fully summarized by one's career, check my [CV]({{ site.github.url }}/assets/pdf/CV_Nicolas_VOISIN_FR.pdf) (in French).
