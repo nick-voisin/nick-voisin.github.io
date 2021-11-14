@@ -5,7 +5,7 @@ author: "Nicolas Voisin"
 categories: journal
 tags: [daily]
 image: kogelberg_sa_june.jpg
-image_description: "Kogelberg Nature Reserve - June 2020"
+image_description: "Kogelberg Nature Reserve - South Africa - June 2020"
 ---
 
 # First time for everything
