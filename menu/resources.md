@@ -23,7 +23,7 @@ permalink: /resources
 
 #### Python - Programming
  -  [Python Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) by David Beazley and Brian K. Jones  
-    *A great recipee book when you need a solution for a specific problem in mind. Definitely not a bedside table book.*
+    *A great recipe book when you need a solution for a specific problem in mind. Definitely not a bedside table book.*
 
  -  [Effective Python](https://www.amazon.fr/Effective-Python-Specific-Write-Better/dp/0134034287) by Brett Slatkin  
     *Likewise, with an emphasis on coding practices and standards. Great read.*
@@ -41,10 +41,10 @@ permalink: /resources
 
 #### Python - Data Science
 
- -  [Think Stats](https://www.amazon.fr/Think-Stats-2e-Allen-Downey/dp/1491907339/) by Allen Downey 
-    *A lovely book that goes over basic statistics, linear regression and statistical inference*
+ -  [Think Stats](https://www.amazon.fr/Think-Stats-2e-Allen-Downey/dp/1491907339/) by Allen Downey  
+    *A lovely book that goes over basic statistics, linear regression and statistical inference.*
 
- -  [Think Bayes](https://www.amazon.fr/Think-Bayes-Allen-B-Downey/dp/1449370780/) by Allen B. Downey 
+ -  [Think Bayes](https://www.amazon.fr/Think-Bayes-Allen-B-Downey/dp/1449370780/) by Allen B. Downey   
     *A great book on Bayesian statistics and most importantly on Bayesian thinking. Not yet finished, to be continued..*
 
 
