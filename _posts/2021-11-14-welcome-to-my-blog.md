@@ -19,7 +19,7 @@ I looked at a couple of solutions in order to do so :
 3.   [Fable with F#](https://fable.io/).
 4.   [Jekyll](https://jekyllrb.com/).
 
-I've built a standard __React__ app with an __ASP.NET Core__ backend for a previous startup project I worked in but it felt like too much just for the sake of deploying a small blog project.
+I've built a standard __React__ app with an __ASP.NET Core__ backend for a previous startup project I worked on but it felt like too much just for the sake of deploying a small blog project.
 __Hugo__ seems like a great fit, and is definitely something I should consider as it's React based, but I don't feel like learning a whole new framework (maybe I'm just too lazy?). __Fable__ on the other hand is something I'm keeping my eyes on, and hopefully will eventually migrate to when I have more time as I'm really fond of the [F#](https://fsharp.org/) language. It will equally serve as a great project to apply more functional patterns in my day to day programming.
 
 Finally __Jekyll__ is the option I went for as it's perfectly integrates with [Github Pages](https://docs.github.com/en/pages), and there's a simple [tutorial](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). There's a tiny learning curve, and I'm completely unaccustomed with the Ruby language, but after downloading a few themes, you quickly get the idea of how the website is setup. Most importantly, once everything is set in stone, you just have to add posts in a specific *_folder* in a markdown format. Bonus point, you even get $$LateX$$ formatting with MathJax!
