@@ -31,8 +31,22 @@ permalink: /resources
  -  [Automate the boring Stuff with Python](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) by Al Sweigart  
     *A great book to recommend to friends and family (or colleagues) who are new to programming and want to start somewhere.*
 
-#### Python - Data Science
 #### Python - Finance
+
+ -  [Mastering Pandas for Finance](https://www.amazon.fr/Mastering-pandas-Finance-Michael-Heydt/dp/1783985100/) by Michael Heydt  
+    *One of the first books I picked up after Automate the boring Stuff. Not everything is up to date but it's nonetheless a good introduction.*
+
+ -  [Python for Finance Cookbook](https://www.amazon.fr/Python-Finance-Cookbook-libraries-financial-ebook/dp/B083KG9DC7) by Eryk Lewinson  
+    *The author goes over a wide range of topics, so pick and choose. Discovered great libraries like seaborn and statsmodels.*
+
+#### Python - Data Science
+
+ -  [Think Stats](https://www.amazon.fr/Think-Stats-2e-Allen-Downey/dp/1491907339/) by Allen Downey 
+    *A lovely book that goes over basic statistics, linear regression and statistical inference*
+
+ -  [Think Bayes](https://www.amazon.fr/Think-Bayes-Allen-B-Downey/dp/1449370780/) by Allen B. Downey 
+    *A great book on Bayesian statistics and most importantly on Bayesian thinking. Not yet finished, to be continued..*
+
 
 ### Articles
 
