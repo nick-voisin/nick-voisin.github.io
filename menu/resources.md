@@ -28,7 +28,7 @@ permalink: /resources
  -  [Effective Python](https://www.amazon.fr/Effective-Python-Specific-Write-Better/dp/0134034287) by Brett Slatkin  
     *Likewise, with an emphasis on coding practices and standards. Great read.*
 
- -  [Automate the boring Stuff with Python](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) by Al Sweigart  
+ -  [Automate the boring Stuff with Python](https://www.amazon.fr/Automate-Boring-Stuff-Python-2nd/dp/1593279922/) by Al Sweigart  
     *A great book to recommend to friends and family (or colleagues) who are new to programming and want to start somewhere.*
 
 #### Python - Finance
