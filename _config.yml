@@ -9,6 +9,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Nicolas Voisin - Personal Blog'
-sub_title:           'Quantitative Trader'
+sub_title:           'Quantitative Developer'
 author:              'Nicolas Voisin'
 location:            'Paris'
